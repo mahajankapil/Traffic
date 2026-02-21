@@ -1,1 +1,6 @@
-# Traffic
+# Vehicle Counter
+- OpenCV
+- Numpy
+- Time
+
+
